@@ -13,7 +13,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Install library
 
    ```bash
-   npx expo install @react-navigation/material-top-tabs react-native-tab-view react-native-pager-view
+   npm install react-native-gesture-handler react-native-reanimated
+
+   ```
+
+   ```bash
+   npm install zustand
+
    ```
 
 3. Start the app in android
@@ -27,8 +33,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 Ось як виглядає інтерфейс:
 
 ![Головна](screenshots/screenshot1.png)
-![Фотогалерея](screenshots/screenshot2.png)
-![Профіль](screenshots/screenshot3.png)
+![Гра](screenshots/screenshot2.png)
+![Завдання](screenshots/screenshot3.png)
 
 In the output, you'll find options to open the app in a
 
